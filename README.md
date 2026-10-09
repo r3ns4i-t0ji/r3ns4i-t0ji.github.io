@@ -6,9 +6,9 @@ A responsive, dark anime/manga-inspired personal portfolio built with plain HTML
 
 Use your editor's Find/Replace to change:
 
-- `YOUR_NAME` → the display name you want on the website
-- `YOUR_USERNAME` → your GitHub username
-- `20XX` → an optional year
+- `r3ns4i_T0ji` → the display name you want on the website
+- `r3ns4i-t0ji` → your GitHub username
+- `2026` → an optional year
 - Sample About / Learning / Writeup text → your own details
 
 The background artwork is original CSS/SVG-inspired abstract artwork. To use a Toji Fushiguro image instead, add an image you are allowed to use as `assets/toji-bg.jpg`, then add this CSS rule to `.hero-art`:
@@ -25,7 +25,7 @@ If you want the image to replace the geometric silhouette too, add `.figure-shad
 
 ## 2. Publish with GitHub Pages
 
-1. Create a repository named exactly `YOUR_USERNAME.github.io` (replace this with your actual GitHub username).
+1. Create a repository named exactly `r3ns4i-t0ji.github.io` (replace this with your actual GitHub username).
 2. Upload `index.html`, `style.css`, `script.js`, `README.md`, and the `assets` folder to the repository root.
 3. Open **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
