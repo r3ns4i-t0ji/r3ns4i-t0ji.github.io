@@ -1,4 +1,4 @@
-# Jujutsu Profile — GitHub Pages starter
+# Profile — GitHub Pages starter
 
 A responsive, dark anime/manga-inspired personal portfolio built with plain HTML, CSS, and JavaScript. No framework or build step is needed.
 
